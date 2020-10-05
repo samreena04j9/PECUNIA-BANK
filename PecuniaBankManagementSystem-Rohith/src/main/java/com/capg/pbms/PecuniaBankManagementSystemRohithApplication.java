@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PecuniaBankManagementSystemShaliniApplication {
+public class PecuniaBankManagementSystemRohithApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PecuniaBankManagementSystemShaliniApplication.class, args);
+		SpringApplication.run(PecuniaBankManagementSystemRohithApplication.class, args);
 	}
 
 }
